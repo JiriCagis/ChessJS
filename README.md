@@ -12,4 +12,4 @@ Here is detail explain algorithm Toledo: http://nanochess.org/chess4.html.
 * CSS
 * Javascript
 
-If you can pay ches game now, please clik on this [link](jiricaga.cz/chess).
+If you can pay ches game now, please clik on this [link](www.jiricaga.cz/chess).

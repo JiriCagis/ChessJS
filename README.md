@@ -8,10 +8,8 @@ good player with queen.
 Here is detail explain algorithm Toledo: http://nanochess.org/chess4.html.
 
 ## Technologies
-<ul>
-  <li>HTML</li>
-  <li>CSS</li>
-  <li>Javascript</li>
-</ul>
+* HTML
+* CSS
+* Javascript
 
-If you can pay ches game now, please clik on this <a href="jiricaga.cz/chess">link</a>.
+If you can pay ches game now, please clik on this [link](jiricaga.cz/chess).

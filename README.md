@@ -7,6 +7,10 @@ good player with queen.
 
 Here is detail explain algorithm Toledo: http://nanochess.org/chess4.html.
 
+<p align='center'>
+<img src="https://webcreatorslt.com/wp-content/uploads/2016/07/responsive-web-design-webcreatorslt.png"/>
+</p>
+
 ## Technologies
 * HTML
 * CSS

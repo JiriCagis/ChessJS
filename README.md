@@ -17,4 +17,4 @@ Here is detail explain algorithm Toledo: http://nanochess.org/chess4.html.
 * Javascript
 
 ## Access
-If you like play the tetris game, click on this [link](http://www.jiricaga.cz/chess/).
+If you like play the chess game, click on this [link](http://www.jiricaga.cz/chess/).

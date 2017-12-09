@@ -1,0 +1,48 @@
+ 
+
+p span 
+{ 
+	white-space:nowrap 
+}
+
+a 
+{
+ 	color:#385bc2; 
+ 	text-decoration:none 
+ }
+
+a:hover 
+{ 
+	color:#b53b3b 
+}
+
+td 
+{ 
+	width:1.04em; 
+	height:1.04em; 
+	overflow:hidden; 
+	text-align: center;
+	font:3em/1 "MS Gothic","Segoe UI Symbol","DejaVu Sans"; 
+	font-size:80px; cursor:pointer; border-width: 0em;
+	background: #EEEDD2
+}
+
+tr:nth-child(odd) td:nth-child(even), tr:nth-child(even) td:nth-child(odd) 
+{ 
+	background: #779756 
+}
+
+td[lang='0'] 
+{ 
+	outline:thin solid #a00; 
+	color:#800 
+}
+
+table 
+{
+	border:solid Black; 
+	border-width:10px;
+	margin:  auto; 
+}
+
+
